@@ -21,4 +21,4 @@ jobs:
           container_registry: ghcr.io/${{ github.actor }}/spring-sensors
           # buildPlanSource: custom-build-plan
           project: workshop02
-          space: tp-k8s-dev-r-w01-s027
+          space: rroque-demo
